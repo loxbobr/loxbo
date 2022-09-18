@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/275px-American_Beaver.jpg);
+
+}
+
+p{
+    background-color: black;
+    color: blue;
+    font-size: medium;
+    margin: 0cm;
+    padding: 0em;
+}
